@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="android_kernel_motorola_msm8916" path="kernel/motorola/msm8916" remote="cm" revision="cm-13.0" />
+	<project name="axxx007xxxz/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-13.0" />
+	<project name="axxx007xxxz/android_device_motorola_msm8916-common" path="device/motorola/msm8916-common" remote="github" revision="candy-l" />
+	<project name="axxx007xxxz/android_device_motorola_lux" path="device/motorola/lux" remote="github" revision="candy" />
+	<project name="android_external_bson" path="external/bson" remote="cm" revision="cm-13.0" />
+	<project name="android_external_stlport" path="external/stlport" remote="cm" revision="cm-13.0" />
+	<project name="android_vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="cm" revision="cm-13.0" />
+</manifest>
