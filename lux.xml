@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_kernel_motorola_msm8916" path="kernel/motorola/msm8916" revision="cm-14.1" />
+  <project name="axxx007xxxz/proprietary_vendor_motorola" path="vendor/motorola" revision="cm-14.1" />
+  <project name="axxx007xxxz/android_device_motorola_msm8916-common" path="device/motorola/msm8916-common" revision="xosp" />
+  <project name="axxx007xxxz/android_device_motorola_lux" path="device/motorola/lux" revision="xosp" />
+  <project name="LineageOS/android_external_bson" path="external/bson" revision="cm-14.1" />
+</manifest>
