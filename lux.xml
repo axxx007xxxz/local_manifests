@@ -15,6 +15,7 @@
   <remove-project name="jrior001/proprietary_vendor_asus" />
   <remove-project name="TheMuppets/proprietary_vendor_huawei" />
   <remove-project name="TheMuppets/proprietary_vendor_lge" />
+  <remove-project name="XOSP-Devices/proprietary_vendor_motorola" />
   <remove-project name="TheMuppets/proprietary_vendor_sony" />
   <remove-project name="TheMuppets/proprietary_vendor_xiaomi" />
   <remove-project name="LineageOS/android_packages_apps_FlipFlap" />
@@ -29,6 +30,7 @@
   <remove-project name="LineageOS/android_hardware_sony_thermanager" />
   <remove-project name="LineageOS/android_hardware_qcom_gps" />
 
+  <project name="axxx007xxxz/proprietary_vendor_motorola" path="vendor/motorola" revision="cm-14.1" />
   <project name="axxx007xxxz/android_device_motorola_msm8916-common" path="device/motorola/msm8916-common" revision="xosp" />
   <project name="axxx007xxxz/android_device_motorola_lux" path="device/motorola/lux" revision="xosp" />
 </manifest>
