@@ -2,8 +2,8 @@
 <manifest>
 	<project name="LineageOS/android_kernel_motorola_msm8916" path="kernel/motorola/msm8916" />
 	<project name="axxx007xxxz/proprietary_vendor_motorola" path="vendor/motorola" />
-	<project name="axxx007xxxz/android_device_motorola_msm8916-common-o" path="device/motorola/msm8916-common" revision="o" />
-	<project name="axxx007xxxz/android_device_motorola_lux-o" path="device/motorola/lux" revision="o" />
+	<project name="TeamHorizon/android_device_motorola_msm8916-common" path="device/motorola/msm8916-common" revision="o-experimental" />
+	<project name="TeamHorizon/android_device_motorola_lux" path="device/motorola/lux" revision="o-experimental" />
 	<project name="LineageOS/android_external_bson" path="external/bson" revision="cm-14.1" />
 	<remove-project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
 </manifest>
