@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project name="TeamHorizon/android_kernel_motorola_msm8916" path="kernel/motorola/msm8916" revision="o-experimental" />
-	<project name="axxx007xxxz/proprietary_vendor_motorola" path="vendor/motorola" />
+	<project name="TeamHorizon/android_kernel_motorola_msm8916" path="kernel/motorola/msm8916" revision="o-experimental-test" />
+	<project name="axxx007xxxz/proprietary_vendor_motorola" path="vendor/motorola" revision="lineage-15.1" />
 	<project name="TeamHorizon/android_device_motorola_msm8916-common" path="device/motorola/msm8916-common" revision="o-experimental" />
 	<project name="TeamHorizon/android_device_motorola_lux" path="device/motorola/lux" revision="o-experimental" />
-	<project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" />
+	<project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" revision="lineage-15.0" />
 	<project name="LineageOS/android_external_bson" path="external/bson" revision="cm-14.1" />
 	<remove-project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
 </manifest>
