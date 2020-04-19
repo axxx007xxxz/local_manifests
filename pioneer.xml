@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="LineageOS/android_hardware_sony_macaddrsetup" path="hardware/sony/macaddrsetup" />
+	<project name="LineageOS/android_hardware_sony_simdetect" path="hardware/sony/simdetect" />
+
+	<project name="axxx007xxxz/proprietary_vendor_sony" path="vendor/sony" />
+	<project name="LineageOS/android_kernel_sony_sdm660" path="kernel/sony/sdm660" />
+	<project name="axxx007xxxz/android_device_sony_nile-common" path="device/sony/nile-common" revision="p" />
+	<project name="axxx007xxxz/android_device_sony_pioneer" path="device/sony/pioneer" revision="p" />
+</manifest>
